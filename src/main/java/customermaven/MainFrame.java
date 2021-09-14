@@ -66,7 +66,7 @@ public class MainFrame extends JFrame {
 	 * Create the frame.
 	 */
 	public MainFrame() {
-		setTitle("Customer");
+		setTitle("62011212025 อภิรักษ์ เริ่มรักษ์ (Customer-DAO)");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 677, 374);
 		contentPane = new JPanel();
